@@ -1,0 +1,11 @@
+0.2.0:
+  added:
+    - System update page
+    - Terminal streaming improvements
+  fixed:
+    - Canvas zoom lag
+    - Notes auto-save bug
+
+0.1.1:
+  fixed:
+    - Auth redirect issue
